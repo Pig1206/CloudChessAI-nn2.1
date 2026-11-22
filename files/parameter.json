@@ -1,0 +1,12 @@
+{
+    "l": {
+        "n_sim": 1000,
+        "c_puct": 1.0,
+        "temp": 0.01,
+        "n_threads": 6,
+        "vl_weight": 0.5,
+        "use_opp_model": false,
+        "opp_weight": 1.0,
+        "sigma": 0.0
+    }
+}
